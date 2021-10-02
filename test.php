@@ -12,6 +12,7 @@
 //     $message = sprintf ('Congratulations, %s! Your article "%s" has been published.' . "\n\n", $name, $title );
 //     $message .= sprintf( 'View: %s', $permalink );
 //     $headers[] = '';
+//    $Message = 'Hello World';
 //     wp_mail( $to, $subject, $message, $headers );
 // } 
 // add_action( 'publish_post', 'post_published_notification');
